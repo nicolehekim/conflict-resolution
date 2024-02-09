@@ -1,5 +1,5 @@
 # conflict-resolution
 
-## a subheading
+## This is a description
 
-This is an ok project, README example
+README example
